@@ -1,4 +1,4 @@
 # shreyapatil-demo
 This is my first Git repository. 
 <br>
-Author: Shreya Patil
+Author: Shreya s Patil
